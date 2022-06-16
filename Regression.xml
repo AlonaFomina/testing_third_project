@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="/Users/alonafomina/IdeaProjects/testng_third_project/pom.xml">
         <classes>
-            <class name=""/>
+            <class name="org.testng.annotations.Test"/>
         </classes>
     </test>
 </suite>
