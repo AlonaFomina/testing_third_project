@@ -11,6 +11,7 @@ public class CarvanaMainPage {
     public CarvanaMainPage(WebDriver driver){
         PageFactory.initElements(driver,this);
     }
+
     @FindBy(css = "div[data-qa='logo-wrapper'] svg")
     public WebElement carvanaLogo;
 
